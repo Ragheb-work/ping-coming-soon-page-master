@@ -1,0 +1,118 @@
+:root {
+  /* Primary */
+  --Blue: hsl(223, 87%, 63%);
+  /* Secondary */
+  --Pale-Blue: hsl(223, 100%, 88%);
+  --Light-Red: hsl(354, 100%, 66%);
+  /* Neutral */
+  --Gray: hsl(0, 0%, 59%);
+  --Very-Dark-Blue: hsl(209, 33%, 12%);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 20px;
+}
+.container {
+  width: 350px;
+  margin: 50px auto;
+  text-align: center;
+}
+.container h2 {
+  padding-top: 35px;
+  padding-bottom: 15px;
+  color: var(--Gray);
+  font-weight: 500;
+}
+.container h2 span {
+  color: black;
+  font-weight: 700;
+}
+.container p:first-of-type {
+  font-size: 17px;
+  padding-bottom: 25px;
+}
+.container .sub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding-bottom: 80px;
+}
+.container .sub input {
+  width: 90%;
+  padding: 20px;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+}
+.container .sub input:first-of-type {
+  border: 1px solid var(--Blue);
+}
+.container .sub input:last-of-type {
+  background-color: var(--Blue);
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+.container .sub input:last-of-type:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.container img {
+  max-width: 90%;
+  padding-bottom: 70px;
+}
+.container .icons {
+  margin-bottom: 30px;
+}
+.container .icons i {
+  color: var(--Blue);
+  border-radius: 50%;
+  border: 1px solid var(--Blue);
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+  margin: 10px;
+  cursor: pointer;
+}
+.container .icons i:hover {
+  background-color: var(--Blue);
+  color: white;
+}
+.container p:last-of-type {
+  color: var(--Gray);
+  font-size: 17px;
+  font-weight: 600;
+}
+@media (min-width: 750px) {
+  .container {
+    width: 750px !important;
+  }
+  .container h2 {
+    font-size: 50px;
+  }
+  .container p:first-of-type {
+    font-size: 23px;
+    padding-bottom: 40px;
+  }
+  .container .sub {
+    flex-direction: row;
+    justify-content: center;
+  }
+  .container .sub input:first-of-type {
+    flex-basis: 60% !important;
+  }
+  .container .sub input:last-of-type {
+    flex-basis: 25%;
+  }
+  .container .icons i {
+    width: 50px;
+    height: 50px;
+    padding-top: 15px;
+  }
+}
