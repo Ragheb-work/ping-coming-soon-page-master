@@ -16,3 +16,9 @@
     <a href="https://github.com/Ragheb-work/ping-coming-soon-page-master/issues">Request Feature</a>
   </p>
 </div>
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [HTML](https://html.com/)
+* [CSS](https://www.w3schools.com/css/)
