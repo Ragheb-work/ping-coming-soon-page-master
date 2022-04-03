@@ -22,3 +22,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [HTML](https://html.com/)
 * [CSS](https://www.w3schools.com/css/)
+* 
+## Contact
+
+Your Name - [@Ragheb_Smari](https://twitter.com/Ragheb_Smari) - stanyt50@gmail.com
+
+Project Link: [https://github.com/Ragheb-work/ping-coming-soon-page-master](https://github.com/Ragheb-work/ping-coming-soon-page-master)
