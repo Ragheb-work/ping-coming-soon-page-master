@@ -16,8 +16,10 @@
     <a href="https://github.com/Ragheb-work/ping-coming-soon-page-master/issues">Request Feature</a>
   </p>
 </div>
-### About The Project
-<br>
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
 ![](design/desktop-design.jpg)
 
 
