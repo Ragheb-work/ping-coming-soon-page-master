@@ -16,19 +16,16 @@
     <a href="https://github.com/Ragheb-work/ping-coming-soon-page-master/issues">Request Feature</a>
   </p>
 </div>
-
+# About The Project
 ![](design/desktop-design.jpg)
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+## Built With
 
 * [HTML](https://html.com/)
 * [CSS](https://www.w3schools.com/css/)
-* 
-## Contact
+### Contact
 
-Your Name - [@Ragheb_Smari](https://twitter.com/Ragheb_Smari) - stanyt50@gmail.com
+My Twitter:  [@Ragheb_Smari](https://twitter.com/Ragheb_Smari) - stanyt50@gmail.com
 
 Project Link: [https://github.com/Ragheb-work/ping-coming-soon-page-master](https://github.com/Ragheb-work/ping-coming-soon-page-master)
