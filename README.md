@@ -4,7 +4,7 @@
   </a>
    <h3 align="center">Live WebSite</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Coming Soon Template HTML & CSS!
     <br />
     <a href="https://github.com/Ragheb-work/ping-coming-soon-page-master/find/main"><strong>Explore the docs »</strong></a>
     <br />
