@@ -17,7 +17,7 @@
   </p>
 </div>
 
-[![Product Name Screen Shot][design/desktop-design.jpg]]("design/desktop-design.jpg")
+[![design/desktop-design.jpg][design/desktop-design.jpg]]("design/desktop-design.jpg")
 
 
 ### Built With
