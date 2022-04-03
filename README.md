@@ -17,7 +17,7 @@
   </p>
 </div>
 
-![design/desktop-design.jpg]
+![](design/desktop-design.jpg)
 
 
 ### Built With
